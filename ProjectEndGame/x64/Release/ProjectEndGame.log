@@ -1,0 +1,22 @@
+﻿  theMain.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+D:\School - GDP\Semester 2\Animation\Midterm\Code\Animation Project\ProjectEndGame\include\glad\glad.h(32): message : see previous definition of 'APIENTRY'
+D:\School - GDP\Semester 2\Animation\Midterm\Code\Animation Project\ProjectEndGame\theMain.cpp(45,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\School - GDP\Semester 2\Animation\Midterm\Code\Animation Project\ProjectEndGame\theMain.cpp(1848,36): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+D:\School - GDP\Semester 2\Animation\Midterm\Code\Animation Project\ProjectEndGame\theMain.cpp(1848,36): warning C4244:         with
+D:\School - GDP\Semester 2\Animation\Midterm\Code\Animation Project\ProjectEndGame\theMain.cpp(1848,36): warning C4244:         [
+D:\School - GDP\Semester 2\Animation\Midterm\Code\Animation Project\ProjectEndGame\theMain.cpp(1848,36): warning C4244:             T=float
+D:\School - GDP\Semester 2\Animation\Midterm\Code\Animation Project\ProjectEndGame\theMain.cpp(1848,36): warning C4244:         ]
+D:\School - GDP\Semester 2\Animation\Midterm\Code\Animation Project\ProjectEndGame\theMain.cpp(1849,38): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+D:\School - GDP\Semester 2\Animation\Midterm\Code\Animation Project\ProjectEndGame\theMain.cpp(1849,38): warning C4244:         with
+D:\School - GDP\Semester 2\Animation\Midterm\Code\Animation Project\ProjectEndGame\theMain.cpp(1849,38): warning C4244:         [
+D:\School - GDP\Semester 2\Animation\Midterm\Code\Animation Project\ProjectEndGame\theMain.cpp(1849,38): warning C4244:             T=float
+D:\School - GDP\Semester 2\Animation\Midterm\Code\Animation Project\ProjectEndGame\theMain.cpp(1849,38): warning C4244:         ]
+D:\School - GDP\Semester 2\Animation\Midterm\Code\Animation Project\ProjectEndGame\theMain.cpp(2336,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\School - GDP\Semester 2\Animation\Midterm\Code\Animation Project\ProjectEndGame\theMain.cpp(2337,37): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Generating code
+  1 of 2321 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ProjectEndGame.vcxproj -> D:\School - GDP\Semester 2\Animation\Midterm\Code\Animation Project\x64\Release\ProjectEndGame.exe
